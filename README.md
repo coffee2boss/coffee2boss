@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coffee2boss
 - 👀 I’m interested in building my own app
-- 🌱 I’m currently learning python and flutter
+- 🌱 I’m currently learning python and all things cloud
 - 💞️ I’m looking to collaborate on apps
 - 📫 Reach me on email coffee2boss@gmail.com
 
